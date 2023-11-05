@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaranRansing2002
+- 👋 Hi, I’m Karan Ransing
 - 👀 I’m interested in Web development and Competitive programming
 - 🌱 I’m currently learning MERN
 
